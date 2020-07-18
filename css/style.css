@@ -143,13 +143,7 @@ body{
     font-size: 14px;
     line-height: 0.58;
 }
-.linc{
-    color:var(--secondary-text-color);   
-}
-.linc:hover{
-    background:var(--accent-text-color);
-    border-radius: 19px;
-}
+
 .galery-title{
  color:var(--main-text-color);
  font-weight: bold;
